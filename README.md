@@ -1,1 +1,1 @@
-# npm-package
+# Chaudhry js package

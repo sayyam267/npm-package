@@ -1,0 +1,23 @@
+{
+  "name": "chaudhary-js",
+  "version": "1.0.0",
+  "description": "Chaudhary js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayyam267/npm-package.git"
+  },
+  "keywords": [
+    "Chaudhary",
+    "Chaudharyjs"
+  ],
+  "author": "Sayyam Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayyam267/npm-package/issues"
+  },
+  "homepage": "https://github.com/sayyam267/npm-package#readme"
+}
