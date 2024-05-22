@@ -14,7 +14,7 @@ console.log(chaudhary("Hassan"));
 
 ## Output
 ```sh
-Hi👋 Chaudhary snake
+Hi👋 Chaudhary Hassan
 ```
 
 
