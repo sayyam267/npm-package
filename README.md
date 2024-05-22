@@ -11,3 +11,11 @@ const chaudhary = require("chaudhary-js");
 
 console.log(chaudhary("Hassan"));
 ```
+
+## Output
+```sh
+Hi👋 Chaudhary snake
+```
+
+
+
